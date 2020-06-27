@@ -1,0 +1,12 @@
+C:\Users\lys\Desktop\CSharp\CSharp_ObjectOriented\ObjectOrientedStart\bin\Debug\netcoreapp3.1\ObjectOrientedStart.exe
+C:\Users\lys\Desktop\CSharp\CSharp_ObjectOriented\ObjectOrientedStart\bin\Debug\netcoreapp3.1\ObjectOrientedStart.deps.json
+C:\Users\lys\Desktop\CSharp\CSharp_ObjectOriented\ObjectOrientedStart\bin\Debug\netcoreapp3.1\ObjectOrientedStart.runtimeconfig.json
+C:\Users\lys\Desktop\CSharp\CSharp_ObjectOriented\ObjectOrientedStart\bin\Debug\netcoreapp3.1\ObjectOrientedStart.runtimeconfig.dev.json
+C:\Users\lys\Desktop\CSharp\CSharp_ObjectOriented\ObjectOrientedStart\bin\Debug\netcoreapp3.1\ObjectOrientedStart.dll
+C:\Users\lys\Desktop\CSharp\CSharp_ObjectOriented\ObjectOrientedStart\bin\Debug\netcoreapp3.1\ObjectOrientedStart.pdb
+C:\Users\lys\Desktop\CSharp\CSharp_ObjectOriented\ObjectOrientedStart\obj\Debug\netcoreapp3.1\ObjectOrientedStart.AssemblyInfoInputs.cache
+C:\Users\lys\Desktop\CSharp\CSharp_ObjectOriented\ObjectOrientedStart\obj\Debug\netcoreapp3.1\ObjectOrientedStart.AssemblyInfo.cs
+C:\Users\lys\Desktop\CSharp\CSharp_ObjectOriented\ObjectOrientedStart\obj\Debug\netcoreapp3.1\ObjectOrientedStart.csproj.CoreCompileInputs.cache
+C:\Users\lys\Desktop\CSharp\CSharp_ObjectOriented\ObjectOrientedStart\obj\Debug\netcoreapp3.1\ObjectOrientedStart.dll
+C:\Users\lys\Desktop\CSharp\CSharp_ObjectOriented\ObjectOrientedStart\obj\Debug\netcoreapp3.1\ObjectOrientedStart.pdb
+C:\Users\lys\Desktop\CSharp\CSharp_ObjectOriented\ObjectOrientedStart\obj\Debug\netcoreapp3.1\ObjectOrientedStart.genruntimeconfig.cache
